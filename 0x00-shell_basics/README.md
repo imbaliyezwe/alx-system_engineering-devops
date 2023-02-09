@@ -1,1 +1,1 @@
-with user and group IDs displayed numerically
+a script that creates a directory
