@@ -1,1 +1,1 @@
-directory contents in a long format
+directory contents, including hidden files
