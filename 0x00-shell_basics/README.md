@@ -1,1 +1,1 @@
-directory contents, including hidden files
+with user and group IDs displayed numerically
